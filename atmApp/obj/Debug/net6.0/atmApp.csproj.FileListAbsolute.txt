@@ -1,0 +1,15 @@
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\bin\Debug\net6.0\atmApp.exe
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\bin\Debug\net6.0\atmApp.deps.json
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\bin\Debug\net6.0\atmApp.runtimeconfig.json
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\bin\Debug\net6.0\atmApp.dll
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\bin\Debug\net6.0\atmApp.pdb
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.csproj.AssemblyReference.cache
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.AssemblyInfoInputs.cache
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.AssemblyInfo.cs
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.csproj.CoreCompileInputs.cache
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.dll
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\refint\atmApp.dll
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.pdb
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\atmApp.genruntimeconfig.cache
+C:\Users\p\Desktop\AptechClass\atmApp\atmApp\obj\Debug\net6.0\ref\atmApp.dll
